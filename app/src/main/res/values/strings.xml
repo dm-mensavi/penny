@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Penny</string>
+    <string name="login_text">Welcome to Penny!</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>
