@@ -1,6 +1,6 @@
-# penny
-Penny is a Java-based Android app for personal finance management. It uses Firebase for secure user authentication and backend functionality, allowing users to track income and expenses with ease. Designed for simplicity, Penny helps users stay organized and in control of their finances.
+Here’s the updated README with a **Screenshots** section added:
 
+---
 
 # 📱 Penny: Personal Finance Manager
 
@@ -16,13 +16,22 @@ Penny is a Java-based Android app designed to help users manage their finances w
 
 ---
 
+## 🖼️ Screenshots
+Here are some screenshots showcasing the features of Penny:
+
+![Summary|Transactions|Add Income Screen](assets/penny.png)
+
+
+
+---
+
 ## 📥 Getting Started
 
 ### Prerequisites
 1. **Android Studio** installed on your computer
 2. A **Firebase Project** set up with:
-    - Firebase Authentication
-    - Firestore Database
+   - Firebase Authentication
+   - Firestore Database
 
 ---
 
@@ -34,19 +43,14 @@ Penny is a Java-based Android app designed to help users manage their finances w
    cd penny
    ```
 
-2. **Replace the `google-services-example.json` File**
-    - Go to your [Firebase Console](https://console.firebase.google.com/).
-    - Select your project or create a new one.
-    - In the **Project Settings**, download the `google-services.json` file.
-    - Replace the existing `google-services-example.json` in the `app` directory with the downloaded `google-services.json`.
+2. **Replace the `google-services-example.json` File**  
+   Replace the placeholder `google-services-example.json` in the `app` directory with the correct `google-services.json` downloaded from Firebase.
 
-3. **Open in Android Studio**
-    - Open the project in **Android Studio**.
-    - Sync Gradle when prompted.
+3. **Open in Android Studio**  
+   Open the project and sync Gradle when prompted.
 
-4. **Run the App**
-    - Connect an emulator or physical Android device.
-    - Click the **Run** button in Android Studio.
+4. **Run the App**  
+   Connect a device or emulator and run the project.
 
 ---
 
@@ -67,5 +71,3 @@ This project is licensed under the [MIT License](LICENSE).
 If you found Penny helpful, give this repository a ⭐ and share your feedback!
 
 ---
-
-Enjoy managing your finances with **Penny**! 😊  
