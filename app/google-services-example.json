@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "PROJECT_NUMBER_PLACEHOLDER",
+    "project_id": "PROJECT_ID_PLACEHOLDER",
+    "storage_bucket": "STORAGE_BUCKET_PLACEHOLDER"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "MOBILE_SDK_APP_ID_PLACEHOLDER",
+        "android_client_info": {
+          "package_name": "PACKAGE_NAME_PLACEHOLDER"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "OAUTH_CLIENT_ID_PLACEHOLDER",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "API_KEY_PLACEHOLDER"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "OTHER_PLATFORM_OAUTH_CLIENT_ID_PLACEHOLDER",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
