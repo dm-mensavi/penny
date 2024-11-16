@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Penny</string>
+    <string name="default_web_client_id">162003195970-3k3lkq12gdlabkj49urpe1jbqu7bmm9m.apps.googleusercontent.com</string>
+    <string name="app_logo">App logo</string>
+    <string name="welcome_heading">Welcome to Penny</string>
+    <string name="welcome_text">The simplest way to track your expenses and plan for the future.</string>
+    <string name="logo">Logo</string>
+    <string name="welcome_to_penny_tracker">Welcome to Penny Tracker</string>
+    <string name="manage_your_expenses">Manage your expenses with ease and plan for your future.</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+</resources>

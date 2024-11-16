@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162003195970",
+    "project_id": "penny-4abf1",
+    "storage_bucket": "penny-4abf1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162003195970:android:c7ce36798f7e2f8b8a75db",
+        "android_client_info": {
+          "package_name": "com.example.penny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162003195970-3k3lkq12gdlabkj49urpe1jbqu7bmm9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Vf1RjuKM8DwZi1nVHDauckXI6-kgTwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162003195970-3k3lkq12gdlabkj49urpe1jbqu7bmm9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

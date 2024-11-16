@@ -1,0 +1,37 @@
+[versions]
+agp = "8.6.1"
+firebaseDatabase = "21.0.0"
+glide = "4.13.0"
+googleServices = "4.4.2"
+junit = "4.13.2"
+junitVersion = "1.2.1"
+espressoCore = "3.6.1"
+appcompat = "1.7.0"
+material = "1.12.0"
+firebase-bom = "33.5.1"
+firebase-auth = "23.1.0"
+pieChart = "0.7.0"
+play-services-auth = "21.2.0"
+activity = "1.9.3"
+constraintlayout = "2.2.0"
+firebaseFirestore = "25.1.1"
+
+[libraries]
+firebase-database = { module = "com.google.firebase:firebase-database", version.ref = "firebaseDatabase" }
+glide = { module = "com.github.bumptech.glide:glide", version.ref = "glide" }
+google-services = { module = "com.google.gms:google-services", version.ref = "googleServices" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+firebase-bom = { group = "com.google.firebase", name = "firebase-bom", version.ref = "firebase-bom" }
+firebase-auth = { group = "com.google.firebase", name = "firebase-auth", version.ref = "firebase-auth" }
+pie-chart = { module = "ir.mahozad.android:pie-chart", version.ref = "pieChart" }
+play-services-auth = { group = "com.google.android.gms", name = "play-services-auth", version.ref = "play-services-auth" }
+activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
+constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+firebase-firestore = { group = "com.google.firebase", name = "firebase-firestore", version.ref = "firebaseFirestore" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
